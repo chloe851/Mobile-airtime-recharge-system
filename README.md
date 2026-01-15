@@ -12,9 +12,9 @@ This system allows users to recharge mobile airtime and view recharge history.
 recharges = []
 
 # Functions
-recharge_airtime() -	Performs recharge
-view_recharges() -	Displays recharges
-main() -	Controls flow
+* recharge_airtime() -	Performs recharge
+* view_recharges() -	Displays recharges
+* main() -	Controls flow
 
 
 # 3. Testing
